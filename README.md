@@ -7,7 +7,7 @@ Heredia Ariel
 Jimenez Nazarena
 Sanchez Tomas
 
-FIGMA realizado para el desafio: https://www.figma.com/file/LuJQd8ghoUXgnFExkFEC3R/trivia-hackathon2023?type=design&node-id=0%3A1&mode=design&t=pGIwgOnwSoc5K9CH-1
+FIGMA realizado para el desafio: https://www.figma.com/file/LuJQd8ghoUXgnFExkFEC3R/trivia-hackathon2023?type=design&node-id=0%3A1&mode=design&t=7uYEQdjluDFVJIvm-1
 
 -----------
 
